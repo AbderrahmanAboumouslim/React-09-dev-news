@@ -146,6 +146,11 @@ Search
   margin-top: 5rem;
   margin-bottom: 3rem;
 }
+
+.search-form h2 {
+  color: #ee709d;
+}
+
 .form-input {
   width: 100%;
   border: none;
